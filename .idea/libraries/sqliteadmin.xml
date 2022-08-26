@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sqliteadmin">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/src/sqliteadmin" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
